@@ -1,1 +1,1 @@
-[yaktocat](https://lab.github.com/RSLUP/communicating-using-markdown)
+[](https://lab.github.com/RSLUP/communicating-using-markdown)

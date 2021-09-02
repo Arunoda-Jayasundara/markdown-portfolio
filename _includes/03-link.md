@@ -1,1 +1,1 @@
-[ ](https://github.com/marketplace/github-learning-lab)
+[GitHub](http://github.com)

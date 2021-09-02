@@ -1,1 +1,1 @@
-[yaktocat](https://octodex.github.com/images/yaktocat.png)
+[yaktocat](https://lab.github.com/RSLUP/communicating-using-markdown)
